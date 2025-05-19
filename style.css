@@ -11,5 +11,5 @@ body {
 
 img {
   border: 10px solid;
-  border-style: inherit;
+  border-style: dashed;
 }
